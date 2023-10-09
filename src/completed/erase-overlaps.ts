@@ -50,7 +50,6 @@ console.log({
   ]),
   EXP: 2
 });
-<<<<<<< HEAD
 console.log({
   RES: eraseOverlapIntervals([
     [-100, -2],
@@ -61,5 +60,3 @@ console.log({
   ]),
   EXP: 0
 });
-=======
->>>>>>> 393b21dba8f3064d076b941c497a7173266ea8c4
